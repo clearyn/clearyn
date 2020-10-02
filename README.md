@@ -12,7 +12,6 @@
            src="https://github.githubassets.com/images/mona-whisper.gif"
       width="200" height="200">
       <p>
-        What r u doin in my SWAMP! <strong>clearyn/clearyn</strong>
-        had a ✨<em>error</em> ✨.
+        This cat is really cute so ill take it home!  ✨<em><strong>clearyn</strong></em> ✨.
       </p>
 </div>
