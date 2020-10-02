@@ -4,6 +4,6 @@
       width="48" height="48">
       <p>
         What r u doin in my SWAMP! <strong>clearyn/clearyn</strong>
-        had a ✨<em>special</em> ✨.
+        had a ✨<em>error</em> ✨.
       </p>
 </div>
