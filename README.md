@@ -12,7 +12,7 @@
       width="200" height="200">
   <br><br>
   <samp>
-This cat is really cute so ill take it home!  ✨<em><strong>clearyn</strong></em>✨.
+Take it home!  ✨<em><strong>clearyn</strong></em>✨.
   </samp>
 <br><br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=clearyn.clearyn" alt="Visitors Counter">
